@@ -366,7 +366,7 @@ header {
         position: relative;
         z-index: 2;
     }
-
+}
 /* My Work */
 .my-work {
     background-color: var(--clr-dark);
@@ -444,4 +444,3 @@ header {
     padding: .5em;
 }
 
-}
